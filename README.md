@@ -909,3 +909,7 @@ description: "To prove to other devs you know a lot."
 
 export default products
 ```
+<div align="center">
+	<p>Final Image Output</p>
+	<img src="https://woosal.com/1337/chrome_pyEDriUoiW1337_yOtp2Ap6NfYTSzirmo8rLcFezp5E3LrxSKn6OLBimPPdN68SiK.png" />
+</div>

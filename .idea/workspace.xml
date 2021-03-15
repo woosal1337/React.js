@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a19dd57-da89-4495-b741-832a522e5402" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/Greeting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/React.js.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/first-react-app/src/setupTests.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1pfoAp8D5uQKzfQ4EzviL02lSWC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a19dd57-da89-4495-b741-832a522e5402" name="Default Changelist" comment="" />
+      <created>1615583364751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615583364751</updated>
+      <workItem from="1615583366278" duration="617000" />
+      <workItem from="1615584071460" duration="2454000" />
+      <workItem from="1615622661237" duration="1245000" />
+      <workItem from="1615744775299" duration="2135000" />
+      <workItem from="1615763118372" duration="268000" />
+      <workItem from="1615763498826" duration="2637000" />
+      <workItem from="1615766171932" duration="1535000" />
+      <workItem from="1615811747558" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

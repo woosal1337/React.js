@@ -2,65 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a19dd57-da89-4495-b741-832a522e5402" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app-2/src/setupTests.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/public/logo192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/public/logo512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/Greeting.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/reportWebVitals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-app/src/setupTests.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/React.js.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/first-react-app/src/setupTests.js" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo-app-2/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-app-2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo-app-2/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-app-2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo-app-2/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo-app/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +61,13 @@
       <workItem from="1615763498826" duration="2637000" />
       <workItem from="1615766171932" duration="1535000" />
       <workItem from="1615811747558" duration="650000" />
+      <workItem from="1615831944574" duration="2095000" />
+      <workItem from="1615845740261" duration="50000" />
+      <workItem from="1615845800342" duration="4188000" />
+      <workItem from="1615887362539" duration="451000" />
+      <workItem from="1615891893864" duration="57000" />
+      <workItem from="1615891960484" duration="36000" />
+      <workItem from="1615892005371" duration="5538000" />
     </task>
     <servers />
   </component>
